@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bagaskhoshi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m looking for a job as Web Developer/Front End Developer
 - 📫 How to reach me @khoshibagas on Instagram
 
 <!---
